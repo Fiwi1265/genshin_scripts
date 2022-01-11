@@ -1,0 +1,8 @@
+mido: The MIT License (MIT)
+    - https://mido.readthedocs.io/en/latest/license.html
+
+pynput: GNU GENERAL PUBLIC LICENSE Version 3
+    - https://github.com/moses-palmer/pynput/blob/master/COPYING
+
+PyInstaller: GNU GENERAL PUBLIC LICENSE Version 2 (with exceptions)
+    - https://www.pyinstaller.org/license.html
